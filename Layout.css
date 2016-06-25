@@ -1,0 +1,63 @@
+body {
+	margin:0;
+	padding:0;
+	}
+#Holder{
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+    margin-top:21px;
+	margin-bottom:21px;
+	}	
+#Header{
+	height:70px;
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+	}	
+	#Navbar{
+		height:60px;
+		background-color:rgb(13, 13, 13);
+		}
+	#Content{
+			height:auto;
+			clear:both;
+			overflow:auto;
+		}
+	#PageHeading{
+		height:auto;
+		padding:11px;
+	}
+	#ContentLeft{
+		width:280px;
+		float:left;
+		padding-left:11px;
+		padding-top:11px;
+	}
+	#ContentRight{
+		width:680px;
+		float:right;
+	}
+	#Footer{
+		height:100px;}
+h1 {
+	margin:0;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#666;
+	}	
+h2 {
+	margin:0;
+	font-family:Helvetica, Arial, sans-serif;
+	font-weight:lighter;
+	#999;
+		}
+.StyleTxtField {
+	border: 1px solid #666;
+	border-radius:6px;
+	width:200px;
+	height:35px;
+	font-family:Helvetica, Arial, sans-serif;
+	padding-left:6px;
+	}
+
+
