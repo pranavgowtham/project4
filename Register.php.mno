@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Register" value="name:Username;datatype:string,name:Password;datatype:string,name:Re-enter Password;datatype:string" />
+</info>
